@@ -10,3 +10,4 @@ To display current directory content, including hidden files(starting with .).Us
 9. Delete the directory my_first_directory that is in the /tmp directory
 Write a script that changes the working directory to the previous one
 11. Lists
+A script that prints the type of the file named iamafilr. The file iamafile will be in the /tmp directory when we run the script
