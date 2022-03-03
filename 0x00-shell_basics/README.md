@@ -1,20 +1,24 @@
-Prints the absolute path name of the current working directory
-Displays the content lsit of your current directory
-To change the working directory to the users home directory
-To display current directory contents in a long format
-To display current directory content, including hidden files(starting with .).Use the long format
-5 to list file digits only
+0. A script that prints the absolute path name of the current working directory
+1. Displays the content lsit of your current directory
+2. To change the working directory to the users home directory (You are not allowed to use any shell variables)
+3. To display current directory contents in a long format
+4. To display current directory content, including hidden files(starting with .).Use the long format
+5. Display current directory contents.
+  { . Long format
+    . with user and group IDs displayed numerically
+    . And hidden files (starting with .)}
 6. Create a script that creates a directory named my_first_directory in the /tmp/ directory.
 7. To move the file betty from /tmp/ to /tmp/my_first_directory.
 8. Delete the file betty
 9. Delete the directory my_first_directory that is in the /tmp directory
-Write a script that changes the working directory to the previous one
-11. Lists
-A script that prints the type of the file named iamafilr. The file iamafile will be in the /tmp directory when we run the script
-13. Create a symbolic link to /bin/ls, names __ls__.
-14. Copy HTML files
-Create a script that moves all the files beginning with an uppercase letter to the directory /tmp/u
+10. Write a script that changes the working directory to the previous one
+11. Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the           working directory and the /boot directory (in this order), in long format
+12. A script that prints the type of the file named iamafilr. The file iamafile will be in the /tmp directory when we run the script
+13. Create a symbolic link to /bin/ls, names __ls__.The symbolic link should be created in the current working directory.
+14. Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the         parent of the working directory or were newer than the versions in the parent of the working directory.
+    (You can consider that all HTML files have the extension .html)
+15. Create a script that moves all the files beginning with an uppercase letter to the directory /tmp/u.(You can assume that the directory /tmp/u will exist when we will run       your script)
 16. Create a script that deletesall files in the current working directory taht end with the character ~
-Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+17. Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 18. Write a command that lists all the files and directories of the current diectory, separated by commas(,).
-19. Create a amgic file school.mgc that can be used with the command file to detect School data files. School data files always conatin the string SCHOOL at offset 0.
+19. Create a amgic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
