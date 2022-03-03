@@ -11,3 +11,4 @@ To display current directory content, including hidden files(starting with .).Us
 Write a script that changes the working directory to the previous one
 11. Lists
 A script that prints the type of the file named iamafilr. The file iamafile will be in the /tmp directory when we run the script
+13. Create a symbolic link to /bin/ls, names __ls__.
