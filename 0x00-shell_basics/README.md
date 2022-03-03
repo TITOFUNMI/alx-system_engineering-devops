@@ -15,3 +15,4 @@ A script that prints the type of the file named iamafilr. The file iamafile will
 14. Copy HTML files
 Create a script that moves all the files beginning with an uppercase letter to the directory /tmp/u
 16. Create a script that deletesall files in the current working directory taht end with the character ~
+Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
