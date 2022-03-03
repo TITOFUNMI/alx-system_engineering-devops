@@ -14,3 +14,4 @@ A script that prints the type of the file named iamafilr. The file iamafile will
 13. Create a symbolic link to /bin/ls, names __ls__.
 14. Copy HTML files
 Create a script that moves all the files beginning with an uppercase letter to the directory /tmp/u
+16. Create a script that deletesall files in the current working directory taht end with the character ~
