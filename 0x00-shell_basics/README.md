@@ -17,8 +17,8 @@
 13. Create a symbolic link to /bin/ls, names __ls__.The symbolic link should be created in the current working directory.
 14. Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the         parent of the working directory or were newer than the versions in the parent of the working directory.
     (You can consider that all HTML files have the extension .html)
-15. Create a script that moves all the files beginning with an uppercase letter to the directory /tmp/u.(You can assume that the directory /tmp/u will exist when we will run       your script)
-16. Create a script that deletesall files in the current working directory taht end with the character ~
-17. Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
-18. Write a command that lists all the files and directories of the current diectory, separated by commas(,).
-19. Create a amgic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
+100. Create a script that moves all the files beginning with an uppercase letter to the directory /tmp/u.(You can assume that the directory /tmp/u will exist when we will run       your script)
+101. Create a script that deletesall files in the current working directory taht end with the character ~
+102. Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+103. Write a command that lists all the files and directories of the current diectory, separated by commas(,).
+school.mgc. Create a amgic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
